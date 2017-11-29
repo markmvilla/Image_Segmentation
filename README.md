@@ -8,4 +8,4 @@ https://www.kaggle.com/c/carvana-image-masking-challenge/data
 
 The architecture used is the U-Net architecture, a well known architechture in the image segmentation area.
 
-![alt text](https://raw.githubusercontent.com/markmvilla/Image_Segmentation/master/README_images/u-net-architecture.png
+![alt text](https://raw.githubusercontent.com/markmvilla/Image_Segmentation/master/README_images/u-net-architecture.png)
